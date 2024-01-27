@@ -24,8 +24,8 @@ pip install opencv-python tkinter
 - Feel free to experiment with different parameters and customize the code according to your requirements.
 
 ## Dependencies
-OpenCV
-Tkinter
+- OpenCV
+- Tkinter
 
 ## Acknowledgments
 Special thanks to the contributors and community support for enhancing this real-time object speed measurement project.
